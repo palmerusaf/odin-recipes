@@ -3,15 +3,25 @@
   background-color: #2d2424;
 }
 
-h1 {
-    color: #5C3D2E;
-    text-align: center;
+h1,
+h2,
+li,
+p {
+  color: #5c3d2e;
+  text-align: center;
 }
 
-li {
-    color: #B85C38;
+li,
+a,
+p {
+  color: #b85c38;
 }
 
-li:hover{
-    color: #E0C097;
+a:hover {
+  color: #e0c097;
+}
+
+img {
+  width: 400px;
+  height: auto;
 }
