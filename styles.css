@@ -17,12 +17,16 @@ p {
   color: #b85c38;
 }
 
-ul{
-    list-style: none;
+li {
+  line-height: 1.8;
 }
 
-ol{
-    list-style:upper-roman;
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: upper-roman;
 }
 
 a:hover {
