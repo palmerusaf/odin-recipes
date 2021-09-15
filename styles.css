@@ -17,6 +17,14 @@ p {
   color: #b85c38;
 }
 
+ul{
+    list-style: none;
+}
+
+ol{
+    list-style:upper-roman;
+}
+
 a:hover {
   color: #e0c097;
   font-weight: bold;
